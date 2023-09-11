@@ -18,6 +18,8 @@ GEM
       ruby2_keywords (~> 0.0.1)
     nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.15.3-x86_64-linux)
+      racc (~> 1.4)
     octokit (6.1.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -40,16 +42,16 @@ GEM
       tilt (~> 2.0)
     thor (1.2.2)
     tilt (2.2.0)
-    uri (0.10.2)
-
+    uri (0.10.3)
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   licensee
   sinatra
-  uri (< 0.10.3)
+  uri (< 0.10.4)
 
 RUBY VERSION
    ruby 2.7.3p183
