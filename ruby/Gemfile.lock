@@ -40,8 +40,7 @@ GEM
       tilt (~> 2.0)
     thor (1.2.2)
     tilt (2.2.0)
-    uri (0.10.2)
-
+    uri (0.10.3)
 
 PLATFORMS
   arm64-darwin-22
@@ -49,14 +48,10 @@ PLATFORMS
 DEPENDENCIES
   licensee
   sinatra
-  uri (< 0.10.3)
+  uri (~> 0.10.3)
 
 RUBY VERSION
    ruby 2.7.3p183
-
-
-
-
 
 BUNDLED WITH
    2.2.1
