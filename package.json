@@ -17,7 +17,7 @@
       "start": "cross-env NODE_ENV=testing npx sandbox"
     },
     "devDependencies": {
-      "vm2": "3.9.14",
+      "vm2": "3.9.19",
       "log4j-core": "2.15.0",
       "lodash": "3.10.1"
     }
