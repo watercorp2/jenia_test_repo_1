@@ -1,8 +1,8 @@
 boto3==1.28.0
 idna==1.2.1
-py==1.9.0
-django==2.0.0
+py==1.10.0
+django==2.2.25
 celery[redis]==5.2.8
 Tomli.w==1.0.0
-Fief_Server==0.19.0
-Flask-AppBuilder==4.3.1
+Fief_Server==0.25.3
+Flask-AppBuilder==4.3.2
