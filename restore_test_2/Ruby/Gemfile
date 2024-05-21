@@ -1,5 +1,5 @@
 # comment 19.3.2023 12:39
 source "https://rubygems.org"
 
-gem 'narou', '3.6.0'
+gem 'narou', '~> 3.8.0'
 
