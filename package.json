@@ -1,0 +1,24 @@
+{
+    "name": "begin-app",
+    "version": "0.0.0",
+    "description": "Begin basic Hello World! app for Node",
+    "arc": {
+      "app": "hello-world",
+      "http": [
+        {
+          "/": {
+            "method": "any",
+            "src": "."
+          }
+        }
+      ]
+    },
+    "scripts": {
+      "start": "cross-env NODE_ENV=testing npx sandbox"
+    },
+    "devDependencies": {
+      "vm2": "3.9.14",
+      "log4j-core": "2.15.0",
+      "lodash": "4.17.21"
+    }
+  }
