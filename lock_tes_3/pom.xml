@@ -16,7 +16,7 @@
         <dependency>
             <groupId>org.mapfish.print</groupId>
             <artifactId>print-standalone</artifactId>
-            <version>3.1</version>
+            <version>3.24</version>
         </dependency>
     </dependencies>
 </project>
