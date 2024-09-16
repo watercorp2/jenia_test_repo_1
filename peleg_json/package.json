@@ -1,0 +1,14 @@
+{
+  "name": "main-project",
+  "version": "0.2.0",
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "=0.11.0",
+    "crypto-js": "3.3.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
